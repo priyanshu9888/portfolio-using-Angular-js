@@ -1,0 +1,25 @@
+.active{
+    font-size: bold;
+}
+.navbar-brand{
+    font-size: 35px;
+}
+.navbar-nav{
+    font-size: 15px;
+    text-align: center;
+}
+.navbar-nav .nav-item .nav-link{
+    margin-right: 5px;
+	font-size:25px;
+	-webkit-transition: .5s all ease;
+	-moz-transition: .5s all ease;
+	transition: .5s all ease;
+}
+.navbar  span   {
+	font-size: 35px;
+	color: #FF5722;
+	font-weight: 600;
+}
+.navbar-toggler-icon{
+    color: #FF5722;
+}
